@@ -1,4 +1,4 @@
-document.getElementById(test).innerHTML = "Test passed!";
+//document.getElementById(test).innerHTML = "Test passed!";
 
 $(document).ready(function() {
     $.ajax({
